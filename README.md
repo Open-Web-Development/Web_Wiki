@@ -1,2 +1,2 @@
 # Wiki_Images
-This Repository is to store the images used in wiki Page
+This reposetery is created to store different images required for wiki pages.. 
