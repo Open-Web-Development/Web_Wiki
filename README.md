@@ -1,2 +1,2 @@
-# Wiki_Images
-This reposetery is created to store different images required for wiki pages.. 
+# Wed Wili
+Reposetery created for Store all Web related Wiki Informatation which I faces or used while developing same..  
